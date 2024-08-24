@@ -6,7 +6,7 @@
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "concrete-reading",
             "order": "01",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522082/ENTarotAmonet/list_1.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525716/ENTarotAmonet/list_1.png"
         },
         {
             "id": 2,
@@ -14,7 +14,7 @@
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "period-reading",
             "order": "02",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522082/ENTarotAmonet/list_2.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525716/ENTarotAmonet/list_2.png"
         },
         {
             "id": 3,
@@ -22,7 +22,7 @@
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "yes-no-reading",
             "order": "03",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522082/ENTarotAmonet/list_3.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525717/ENTarotAmonet/list_3.png"
         },
         {
             "id": 4,
@@ -30,7 +30,7 @@
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "relationship-reading",
             "order": "04",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522083/ENTarotAmonet/list_4.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525717/ENTarotAmonet/list_4.png"
         },
         {
             "id": 5,
@@ -38,7 +38,7 @@
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "rupture-reading",
             "order": "05",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522083/ENTarotAmonet/list_5.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525717/ENTarotAmonet/list_5.png"
         },
         {
             "id": 6,
@@ -46,7 +46,7 @@
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "absent-reading",
             "order": "06",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522194/ENTarotAmonet/list_6.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525787/ENTarotAmonet/list_6.png"
         },
         {
             "id": 7,
@@ -54,7 +54,7 @@
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "pregnancy-reading",
             "order": "07",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522193/ENTarotAmonet/list_7.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525787/ENTarotAmonet/list_7.png"
         },
         {
             "id": 8,
@@ -62,7 +62,7 @@
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "reading-person",
             "order": "08",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522194/ENTarotAmonet/list_8.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525787/ENTarotAmonet/list_8.png"
         },
         {
             "id": 9,
@@ -70,7 +70,7 @@
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "witchcraft-reading",
             "order": "09",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522193/ENTarotAmonet/list_9.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525787/ENTarotAmonet/list_9.png"
         },
         {
             "id": 10,
@@ -78,7 +78,7 @@
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "money-reading",
             "order": "10",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522193/ENTarotAmonet/list_10.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525787/ENTarotAmonet/list_10.png"
         },
         {
             "id": 11,
@@ -86,7 +86,7 @@
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "decisions-reading",
             "order": "11",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522306/ENTarotAmonet/list_11.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525788/ENTarotAmonet/list_11.png"
         },
         {
             "id": 12,
@@ -94,7 +94,7 @@
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "sex-reading",
             "order": "12",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522305/ENTarotAmonet/list_12.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525935/ENTarotAmonet/list_12.png"
         },
         {
             "id": 13,
@@ -102,7 +102,7 @@
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "spiritual-reading",
             "order": "13",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522305/ENTarotAmonet/list_13.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525936/ENTarotAmonet/list_13.png"
         },
         {
             "id": 14,
@@ -110,7 +110,7 @@
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "general-reading",
             "order": "14",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522305/ENTarotAmonet/list_14.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525936/ENTarotAmonet/list_14.png"
         },
         {
             "id": 15,
@@ -118,7 +118,7 @@
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "health-reading",
             "order": "15",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522305/ENTarotAmonet/list_15.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525936/ENTarotAmonet/list_15.png"
         },
         {
             "id": 16,
@@ -126,7 +126,7 @@
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "love-reading",
             "order": "16",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522534/ENTarotAmonet/list_16.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525936/ENTarotAmonet/list_16.png"
         },
         {
             "id": 17,
@@ -134,7 +134,7 @@
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "feelings-reading",
             "order": "17",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522534/ENTarotAmonet/list_17.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724526000/ENTarotAmonet/list_17.png"
         },
         {
             "id": 18,
@@ -142,7 +142,7 @@
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "infidelity-reading",
             "order": "18",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522534/ENTarotAmonet/list_18.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724526000/ENTarotAmonet/list_18.png"
         },
         {
             "id": 19,
@@ -150,7 +150,7 @@
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "couple-reading",
             "order": "19",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522534/ENTarotAmonet/list_19.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724526000/ENTarotAmonet/list_19.png"
         },
         {
             "id": 20,
@@ -158,7 +158,7 @@
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "compatibility-reading",
             "order": "20",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522534/ENTarotAmonet/list_20.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724526000/ENTarotAmonet/list_20.png"
         },
         {
             "id": 21,
@@ -166,7 +166,7 @@
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "fix-relationship-reading",
             "order": "21",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522644/ENTarotAmonet/list_21.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724526000/ENTarotAmonet/list_21.png"
         },
         {
             "id": 22,
@@ -174,7 +174,7 @@
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "young-love-reading",
             "order": "22",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522644/ENTarotAmonet/list_22.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724526000/ENTarotAmonet/list_22.png"
         },
         {
             "id": 23,
@@ -182,7 +182,7 @@
             "description": "Esta es una pequeña descripción resumida de la lectura",
             "url": "services",
             "order": "23",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522644/ENTarotAmonet/list_23.png"
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724526001/ENTarotAmonet/list_23.png"
         }
     ]
 }
