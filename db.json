@@ -1,0 +1,188 @@
+{
+    "lists" : [
+        {
+            "id": 1,
+            "name": "Concrete Reading",
+            "description": "Esta es una pequeña descripción resumida de la lectura",
+            "url": "concrete-reading",
+            "order": "01",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522082/ENTarotAmonet/list_1.png"
+        },
+        {
+            "id": 2,
+            "name": "Past, Present and Future Reading",
+            "description": "Esta es una pequeña descripción resumida de la lectura",
+            "url": "period-reading",
+            "order": "02",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522082/ENTarotAmonet/list_2.png"
+        },
+        {
+            "id": 3,
+            "name": "Yes and No Reading",
+            "description": "Esta es una pequeña descripción resumida de la lectura",
+            "url": "yes-no-reading",
+            "order": "03",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522082/ENTarotAmonet/list_3.png"
+        },
+        {
+            "id": 4,
+            "name": "Why did this Relationship break up? Reading",
+            "description": "Esta es una pequeña descripción resumida de la lectura",
+            "url": "relationship-reading",
+            "order": "04",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522083/ENTarotAmonet/list_4.png"
+        },
+        {
+            "id": 5,
+            "name": "Recovering from a Breakup Reading",
+            "description": "Esta es una pequeña descripción resumida de la lectura",
+            "url": "rupture-reading",
+            "order": "05",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522083/ENTarotAmonet/list_5.png"
+        },
+        {
+            "id": 6,
+            "name": "The Absent Reading",
+            "description": "Esta es una pequeña descripción resumida de la lectura",
+            "url": "absent-reading",
+            "order": "06",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522194/ENTarotAmonet/list_6.png"
+        },
+        {
+            "id": 7,
+            "name": "Pregnancy Reading",
+            "description": "Esta es una pequeña descripción resumida de la lectura",
+            "url": "pregnancy-reading",
+            "order": "07",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522193/ENTarotAmonet/list_7.png"
+        },
+        {
+            "id": 8,
+            "name": "Reading to know if the Person is for me",
+            "description": "Esta es una pequeña descripción resumida de la lectura",
+            "url": "reading-person",
+            "order": "08",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522194/ENTarotAmonet/list_8.png"
+        },
+        {
+            "id": 9,
+            "name": "Reading to Know if I Have Been Bewitched",
+            "description": "Esta es una pequeña descripción resumida de la lectura",
+            "url": "witchcraft-reading",
+            "order": "09",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522193/ENTarotAmonet/list_9.png"
+        },
+        {
+            "id": 10,
+            "name": "Money reading",
+            "description": "Esta es una pequeña descripción resumida de la lectura",
+            "url": "money-reading",
+            "order": "10",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522193/ENTarotAmonet/list_10.png"
+        },
+        {
+            "id": 11,
+            "name": "Decisions Reading",
+            "description": "Esta es una pequeña descripción resumida de la lectura",
+            "url": "decisions-reading",
+            "order": "11",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522306/ENTarotAmonet/list_11.png"
+        },
+        {
+            "id": 12,
+            "name": "Sex as a Couple Reading",
+            "description": "Esta es una pequeña descripción resumida de la lectura",
+            "url": "sex-reading",
+            "order": "12",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522305/ENTarotAmonet/list_12.png"
+        },
+        {
+            "id": 13,
+            "name": "Spiritual Checkup Reading",
+            "description": "Esta es una pequeña descripción resumida de la lectura",
+            "url": "spiritual-reading",
+            "order": "13",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522305/ENTarotAmonet/list_13.png"
+        },
+        {
+            "id": 14,
+            "name": "Reading of the 12 Houses",
+            "description": "Esta es una pequeña descripción resumida de la lectura",
+            "url": "general-reading",
+            "order": "14",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522305/ENTarotAmonet/list_14.png"
+        },
+        {
+            "id": 15,
+            "name": "Health Reading",
+            "description": "Esta es una pequeña descripción resumida de la lectura",
+            "url": "health-reading",
+            "order": "15",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522305/ENTarotAmonet/list_15.png"
+        },
+        {
+            "id": 16,
+            "name": "Will I Find True Love?",
+            "description": "Esta es una pequeña descripción resumida de la lectura",
+            "url": "love-reading",
+            "order": "16",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522534/ENTarotAmonet/list_16.png"
+        },
+        {
+            "id": 17,
+            "name": "Feelings Reading",
+            "description": "Esta es una pequeña descripción resumida de la lectura",
+            "url": "feelings-reading",
+            "order": "17",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522534/ENTarotAmonet/list_17.png"
+        },
+        {
+            "id": 18,
+            "name": "Infidelity Reading",
+            "description": "Esta es una pequeña descripción resumida de la lectura",
+            "url": "infidelity-reading",
+            "order": "18",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522534/ENTarotAmonet/list_18.png"
+        },
+        {
+            "id": 19,
+            "name": "Couple Reading",
+            "description": "Esta es una pequeña descripción resumida de la lectura",
+            "url": "couple-reading",
+            "order": "19",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522534/ENTarotAmonet/list_19.png"
+        },
+        {
+            "id": 20,
+            "name": "Compatibility Reading",
+            "description": "Esta es una pequeña descripción resumida de la lectura",
+            "url": "compatibility-reading",
+            "order": "20",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522534/ENTarotAmonet/list_20.png"
+        },
+        {
+            "id": 21,
+            "name": "Can This Relationship Be Fixed?",
+            "description": "Esta es una pequeña descripción resumida de la lectura",
+            "url": "fix-relationship-reading",
+            "order": "21",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522644/ENTarotAmonet/list_21.png"
+        },
+        {
+            "id": 22,
+            "name": "Children: Love of the Couple",
+            "description": "Esta es una pequeña descripción resumida de la lectura",
+            "url": "young-love-reading",
+            "order": "22",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522644/ENTarotAmonet/list_22.png"
+        },
+        {
+            "id": 23,
+            "name": "Services",
+            "description": "Esta es una pequeña descripción resumida de la lectura",
+            "url": "services",
+            "order": "23",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724522644/ENTarotAmonet/list_23.png"
+        }
+    ]
+}
