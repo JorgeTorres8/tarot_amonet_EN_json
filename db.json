@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "Concrete Reading",
-            "description": "Resolve your specific doubts with clarity and precision, getting direct answers.",
+            "description": "Resolve your specific doubts with precision, getting direct answers.",
             "url": "concrete-reading",
             "order": "01",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525716/ENTarotAmonet/list_1.png"
@@ -11,7 +11,7 @@
         {
             "id": 2,
             "name": "Past, Present and Future Reading",
-            "description": "xplore how your past influences your present and what the future holds for you.",
+            "description": "Explore how your past influences your present and what the future holds for you.",
             "url": "period-reading",
             "order": "02",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525716/ENTarotAmonet/list_2.png"
@@ -43,7 +43,7 @@
         {
             "id": 6,
             "name": "The Absent Reading",
-            "description": "Connect with someone absent and receive important messages.",
+            "description": "Connect with someone absent, receive important messages.",
             "url": "absent-reading",
             "order": "06",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525787/ENTarotAmonet/list_6.png"
@@ -91,7 +91,7 @@
         {
             "id": 12,
             "name": "Sex as a Couple Reading",
-            "description": "Enhance intimacy and sexual connection with your partne",
+            "description": "Enhance intimacy and sexual connection with your partner.",
             "url": "sex-reading",
             "order": "12",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525935/ENTarotAmonet/list_12.png"
