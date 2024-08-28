@@ -2,179 +2,179 @@
     "lists" : [
         {
             "id": 1,
-            "name": "Concrete Reading",
-            "description": "Resolve your specific doubts with precision, getting direct answers.",
-            "url": "concrete-reading",
-            "order": "01",
-            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525716/ENTarotAmonet/list_1.png"
-        },
-        {
-            "id": 2,
             "name": "Past, Present and Future Reading",
             "description": "Explore how your past influences your present and what the future holds for you.",
             "url": "period-reading",
-            "order": "02",
+            "order": "01",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525716/ENTarotAmonet/list_2.png"
         },
         {
-            "id": 3,
+            "id": 2,
             "name": "Yes and No Reading",
             "description": "Get clear and direct answers to your most pressing questions.",
             "url": "yes-no-reading",
-            "order": "03",
+            "order": "02",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525717/ENTarotAmonet/list_3.png"
         },
         {
-            "id": 4,
+            "id": 3,
             "name": "Why Did this Relationship Break up? Reading",
             "description": "Discover the reasons behind the breakup and how to heal.",
             "url": "relationship-reading",
-            "order": "04",
+            "order": "03",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525717/ENTarotAmonet/list_4.png"
         },
         {
-            "id": 5,
+            "id": 4,
             "name": "Recovering from a Breakup Reading",
             "description": "Find peace and guidance to overcome a romantic separation.",
             "url": "rupture-reading",
-            "order": "05",
+            "order": "04",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525717/ENTarotAmonet/list_5.png"
         },
         {
-            "id": 6,
+            "id": 5,
             "name": "The Absent Reading",
             "description": "Connect with someone absent, receive important messages.",
             "url": "absent-reading",
-            "order": "06",
+            "order": "05",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525787/ENTarotAmonet/list_6.png"
         },
         {
-            "id": 7,
+            "id": 6,
             "name": "Pregnancy Reading",
             "description": "Get information and guidance about your pregnancy and your baby’s future.",
             "url": "pregnancy-reading",
-            "order": "07",
+            "order": "06",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525787/ENTarotAmonet/list_7.png"
         },
         {
-            "id": 8,
+            "id": 7,
             "name": "Reading to Know if the Person is for Me",
             "description": "Evaluate the compatibility and potential of your romantic relationship.",
             "url": "reading-person",
-            "order": "08",
+            "order": "07",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525787/ENTarotAmonet/list_8.png"
         },
         {
-            "id": 9,
+            "id": 8,
             "name": "Reading to Know if I Have Been Bewitched",
             "description": "Detect magical influences and get advice on how to protect yourself.",
             "url": "witchcraft-reading",
-            "order": "09",
+            "order": "08",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525787/ENTarotAmonet/list_9.png"
         },
         {
-            "id": 10,
+            "id": 9,
             "name": "Money Reading",
             "description": "Improve your financial situation with precise advice and predictions.",
             "url": "money-reading",
-            "order": "10",
+            "order": "09",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525787/ENTarotAmonet/list_10.png"
         },
         {
-            "id": 11,
+            "id": 10,
             "name": "Decisions Reading",
             "description": "Make important decisions with confidence and clarity.",
             "url": "decisions-reading",
-            "order": "11",
+            "order": "10",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525788/ENTarotAmonet/list_11.png"
         },
         {
-            "id": 12,
+            "id": 11,
             "name": "Sex as a Couple Reading",
             "description": "Enhance intimacy and sexual connection with your partner.",
             "url": "sex-reading",
-            "order": "12",
+            "order": "11",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525935/ENTarotAmonet/list_12.png"
         },
         {
-            "id": 13,
+            "id": 12,
             "name": "Spiritual Checkup Reading",
             "description": "Assess your spiritual well-being and get guidance for your growth.",
             "url": "spiritual-reading",
-            "order": "13",
+            "order": "12",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525936/ENTarotAmonet/list_13.png"
         },
         {
-            "id": 14,
+            "id": 13,
             "name": "Reading of the 12 Houses",
             "description": "Get a comprehensive view of your life and challenges.",
             "url": "general-reading",
-            "order": "14",
+            "order": "13",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525936/ENTarotAmonet/list_14.png"
         },
         {
-            "id": 15,
+            "id": 14,
             "name": "Health Reading",
             "description": "Understand your health status and get advice on how to improve it.",
             "url": "health-reading",
-            "order": "15",
+            "order": "14",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525936/ENTarotAmonet/list_15.png"
         },
         {
-            "id": 16,
+            "id": 15,
             "name": "Will I Find True Love?",
             "description": "Discover if true love is in your near future.",
             "url": "love-reading",
-            "order": "16",
+            "order": "15",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525936/ENTarotAmonet/list_16.png"
         },
         {
-            "id": 17,
+            "id": 16,
             "name": "Feelings Reading",
             "description": "Explore your emotions and get guidance on how to manage them.",
             "url": "feelings-reading",
-            "order": "17",
+            "order": "16",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724526000/ENTarotAmonet/list_17.png"
         },
         {
-            "id": 18,
+            "id": 17,
             "name": "Infidelity Reading",
             "description": "Investigate possible infidelities and get clarity about your relationship.",
             "url": "infidelity-reading",
-            "order": "18",
+            "order": "17",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724526000/ENTarotAmonet/list_18.png"
         },
         {
-            "id": 19,
+            "id": 18,
             "name": "Couple Reading",
             "description": "Improve your relationship with your partner and strengthen your bond.",
             "url": "couple-reading",
-            "order": "19",
+            "order": "18",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724526000/ENTarotAmonet/list_19.png"
         },
         {
-            "id": 20,
+            "id": 19,
             "name": "Compatibility Reading",
             "description": "Assess compatibility with your partner and discover areas for improvement.",
             "url": "compatibility-reading",
-            "order": "20",
+            "order": "19",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724526000/ENTarotAmonet/list_20.png"
         },
         {
-            "id": 21,
+            "id": 20,
             "name": "Can This Relationship Be Fixed?",
             "description": "Analyze the possibilities of reconciliation and how to achieve it.",
             "url": "fix-relationship-reading",
-            "order": "21",
+            "order": "20",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724526000/ENTarotAmonet/list_21.png"
         },
         {
-            "id": 22,
+            "id": 21,
             "name": "Children: Love of the Couple",
             "description": "Assess if your child’s young love is beneficial.",
             "url": "young-love-reading",
-            "order": "22",
+            "order": "21",
             "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724526000/ENTarotAmonet/list_22.png"
+        },
+        {
+            "id": 22,
+            "name": "Concrete Reading",
+            "description": "Resolve your specific doubts with precision, getting direct answers.",
+            "url": "concrete-reading",
+            "order": "22",
+            "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1724525716/ENTarotAmonet/list_1.png"
         },
         {
             "id": 23,
